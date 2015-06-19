@@ -4149,3 +4149,19 @@ body.lock-position
 {
 	padding:10px;
 }
+.ads_footer
+{
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+.box_title
+{
+	background: #42494F;
+	border-color: #858D94;
+	padding: 8px 8px 8px;
+}
+.img_footer
+{
+	padding-top: 15px;
+	padding-left: 15px;
+}

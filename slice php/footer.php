@@ -74,7 +74,7 @@
 
 						</div>
 						<div class="column column_1_3">
-							
+								<img src="http://www.sumbernews.com/wp-content/uploads/2015/05/site-logo.png" />
 					</div>
 					<div class="row page_margin_top_section">
 						<div class="column column_3_4">
